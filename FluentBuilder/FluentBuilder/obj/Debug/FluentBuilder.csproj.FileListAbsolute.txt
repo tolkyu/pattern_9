@@ -1,0 +1,7 @@
+C:\Users\prwdi\source\repos\FluentBuilder\FluentBuilder\bin\Debug\FluentBuilder.exe.config
+C:\Users\prwdi\source\repos\FluentBuilder\FluentBuilder\bin\Debug\FluentBuilder.exe
+C:\Users\prwdi\source\repos\FluentBuilder\FluentBuilder\bin\Debug\FluentBuilder.pdb
+C:\Users\prwdi\source\repos\FluentBuilder\FluentBuilder\obj\Debug\FluentBuilder.csprojAssemblyReference.cache
+C:\Users\prwdi\source\repos\FluentBuilder\FluentBuilder\obj\Debug\FluentBuilder.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\source\repos\FluentBuilder\FluentBuilder\obj\Debug\FluentBuilder.exe
+C:\Users\prwdi\source\repos\FluentBuilder\FluentBuilder\obj\Debug\FluentBuilder.pdb
